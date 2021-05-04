@@ -1,0 +1,72 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Live.com_Сombiner.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="UserAgentFileBox" Type="System.String" Scope="User">
+      <Value Profile="(Default)">in\UserAgent.txt</Value>
+    </Setting>
+    <Setting Name="ProxyFilePathBox" Type="System.String" Scope="User">
+      <Value Profile="(Default)">in\Proxy.txt</Value>
+    </Setting>
+    <Setting Name="ProxyCheckLinkBox" Type="System.String" Scope="User">
+      <Value Profile="(Default)">https://bing.com/</Value>
+    </Setting>
+    <Setting Name="OperatingModeBox" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="ProxySourceBox" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="ProxyModeBox" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="TypeOfProxyBox" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="MinPauseNumeric" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">1500</Value>
+    </Setting>
+    <Setting Name="MaxPauseNumeric" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">3000</Value>
+    </Setting>
+    <Setting Name="CountRequestNumeric" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="CountThreadNumeric" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="DisableLogBox" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="ClientKeyBox" Type="System.String" Scope="User">
+      <Value Profile="(Default)">ae23daf19c9e65577bb4549070c8c16b</Value>
+    </Setting>
+    <Setting Name="MaxCountMessageToGroupsNumeric" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="MaxCountMessageToLSNumeric" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="MessageForSpamGroup" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="MessageForSpamLS" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="NameSurnameBox" Type="System.String" Scope="User">
+      <Value Profile="(Default)">in\NameSurname.txt</Value>
+    </Setting>
+    <Setting Name="PasswordFileBox" Type="System.String" Scope="User">
+      <Value Profile="(Default)">in\Passwords.txt</Value>
+    </Setting>
+    <Setting Name="LoginGenerateCheckBox" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="PasswordGenerateCheckBox" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="CountAccountNumeric" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
